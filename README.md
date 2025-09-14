@@ -27,7 +27,7 @@ Feel free to download the CSV and use it for your own analysis, visualization, o
 
 ## 💡 Why I Built This
 
-I wanted to practice web scraping with real-world data—and what better place to start than a public, well-structured Wikipedia table? It was a great way to improve my data collection and preprocessing skills.
+I wanted to practice web scraping with real-world data and what better place to start than a public, well-structured Wikipedia table? It was a great way to improve my data collection and preprocessing skills.
 
 ## 👋 A Quick Note
 
