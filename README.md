@@ -1,7 +1,7 @@
 # Data-Scrapping-project
 # 🏢 US Largest Companies Data Scraper
 
-Hey there! This project was a fun dive into web scraping. I collected data on the largest companies in the United States by revenue directly from Wikipedia.
+This project was a fun dive into web scraping. I collected data on the largest companies in the United States by revenue directly from Wikipedia.
 
 ## 📈 About the Data
 
